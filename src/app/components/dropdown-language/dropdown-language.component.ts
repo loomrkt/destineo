@@ -1,4 +1,5 @@
-import { ChangeDetectionStrategy, Component } from '@angular/core';
+import { ChangeDetectionStrategy, Component, inject } from '@angular/core';
+import { TranslateService } from '@ngx-translate/core';
 
 @Component({
   selector: 'app-dropdown-language',
@@ -7,4 +8,10 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
   templateUrl: './dropdown-language.component.html',
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
-export class DropdownLanguageComponent { }
+export class DropdownLanguageComponent { 
+  translate : TranslateService = inject(TranslateService);
+  translateText(lang : string)
+  {
+    this.translate.use(lang);
+  }
+}

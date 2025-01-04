@@ -1,9 +1,10 @@
 import { ChangeDetectionStrategy, Component } from '@angular/core';
+import{ TranslateModule } from '@ngx-translate/core';
 
 @Component({
   selector: 'app-landing',
   standalone: true,
-  imports: [],
+  imports: [TranslateModule],
   templateUrl: './landing.component.html',
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
