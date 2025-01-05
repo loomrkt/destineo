@@ -1,3 +1,16 @@
 {
-    "badgeLanding" : "hello"
+    "navbar" : {
+        "Home" : "Home",
+        "FAQ" : "FAQ",
+        "Recommendation" : "Recommendation",
+        "Testimonials" : "Testimonials",
+        "Contact" : "Contact"
+    },
+    "landing": {
+        "badge": "100% Satisfaction",
+        "Accroche": "Ready to embark on the adventure of a lifetime with",
+        "Texte": "Discover off-the-beaten-path destinations. From volcano climbing in Indonesia to African safaris, we offer unique experiences for daring travelers.",
+        "btn1": "Get Started",
+        "btn2": "Contact Us"
+    }
 }

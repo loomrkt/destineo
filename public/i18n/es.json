@@ -1,0 +1,16 @@
+{
+    "navbar" : {
+        "Home" : "Inicio",
+        "FAQ" : "Preguntas frecuentes",
+        "Recommendation" : "Recomendación",
+        "Testimonials" : "Testimonios",
+        "Contact" : "Contacto"
+    },
+    "landing": {
+        "badge": "100% Satisfacción",
+        "Accroche": "Listo para embarcarse en la aventura de su vida con",
+        "Texte": "Descubra destinos fuera de lo común. Desde escalar volcanes en Indonesia hasta safaris africanos, ofrecemos experiencias únicas para viajeros atrevidos.",
+        "btn1": "Comenzar",
+        "btn2": "Contáctenos"
+    }
+}

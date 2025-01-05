@@ -1,3 +1,16 @@
 {
-    "badgeLanding" : "salut"
+    "navbar" : {
+        "Home" : "Accueil",
+        "FAQ" : "FAQ",
+        "Recommendation" : "Recommendation",
+        "Testimonials" : "Témoignages",
+        "Contact" : "Contact"
+    },
+    "landing" : {
+        "badge" : "100% Satisfaction",
+        "Accroche" : "Prêt à vivre l'aventure de votre vie avec",
+        "Texte" : "Partez à la découverte de destinations hors des sentiers battus. De l'ascension de volcans en Indonésie aux safaris en Afrique, nous vous proposons des expériences uniques pour les voyageurs audacieux.",
+        "btn1" : "Commencer",
+        "btn2" : "Nous contacter"
+    }
 }
