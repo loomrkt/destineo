@@ -12,5 +12,15 @@
         "Texte" : "Partez à la découverte de destinations hors des sentiers battus. De l'ascension de volcans en Indonésie aux safaris en Afrique, nous vous proposons des expériences uniques pour les voyageurs audacieux.",
         "btn1" : "Commencer",
         "btn2" : "Nous contacter"
+    },
+    "faq" : {
+        "titre" : "Votre prochain voyage commence ici",
+        "description" : "Partez à l'aventure et découvrez le monde avec notre agence de voyage. Profitez de nos offres exclusives et de nos conseils d'experts pour un séjour inoubliable.",
+        "blocs" : {
+            "b1" : "Plus de 1000 destinations à travers le monde",
+            "b2" : "Des milliers d'avis clients 5 étoiles",
+            "b3" : "Des offres exclusives toute l'année",
+            "b4" : "Un service client disponible 24/7"
+        }
     }
 }
