@@ -1,16 +1,63 @@
 {
-    "navbar" : {
-        "Home" : "Inicio",
-        "FAQ" : "Preguntas frecuentes",
-        "Recommendation" : "Recomendación",
-        "Testimonials" : "Testimonios",
-        "Contact" : "Contacto"
+    "navbar": {
+        "Home": "Inicio",
+        "FAQ": "Preguntas frecuentes",
+        "Recommendation": "Recomendaciones",
+        "Testimonials": "Testimonios",
+        "Contact": "Contacto"
+    },
+    "footer": {
+        "Home": "Inicio",
+        "FAQ": "Preguntas frecuentes",
+        "Recommendation": "Recomendaciones",
+        "Testimonials": "Testimonios",
+        "Contact": "Contacto"
     },
     "landing": {
         "badge": "100% Satisfacción",
-        "Accroche": "Listo para embarcarse en la aventura de su vida con",
-        "Texte": "Descubra destinos fuera de lo común. Desde escalar volcanes en Indonesia hasta safaris africanos, ofrecemos experiencias únicas para viajeros atrevidos.",
+        "Accroche": "Listo para vivir la aventura de tu vida con",
+        "Texte": "Descubre destinos fuera de lo común. Desde escalar volcanes en Indonesia hasta safaris en África, te ofrecemos experiencias únicas para viajeros aventureros.",
         "btn1": "Comenzar",
-        "btn2": "Contáctenos"
+        "btn2": "Contáctanos"
+    },
+    "faq": {
+        "titre": "Tu próximo viaje comienza aquí",
+        "description": "Embárcate en una aventura y descubre el mundo con nuestra agencia de viajes. Aprovecha nuestras ofertas exclusivas y los consejos de nuestros expertos para una estancia inolvidable.",
+        "blocs": {
+            "b1": "Más de 1000 destinos en todo el mundo",
+            "b2": "Miles de opiniones de clientes con 5 estrellas",
+            "b3": "Ofertas exclusivas durante todo el año",
+            "b4": "Atención al cliente disponible 24/7"
+        }
+    },
+    "recommendation": {
+        "titre": "Recomendaciones",
+        "description": "Aquí tienes algunas recomendaciones para ti.",
+        "recommandé" : "recomendado",
+        "blocs": {
+            "b1": {
+                "titre": "La Avenida de los Baobabs",
+                "description": "La Avenida de los Baobabs es, sin duda, la imagen más icónica de Madagascar. Estos árboles milenarios, con sus formas extrañas y majestuosas, crean un paisaje surrealista. La puesta de sol es especialmente mágica, ofreciendo un espectáculo inolvidable."
+            },
+            "b2": {
+                "titre": "Parque Nacional de Isalo",
+                "description": "El Parque Nacional de Isalo es un verdadero paraíso para los amantes de la naturaleza. Sus cañones, piscinas naturales, fauna y flora variadas lo convierten en un lugar excepcional. Puedes hacer senderismo, nadar, observar lémures y descubrir paisajes impresionantes."
+            }
+        },
+        "Complimentation": "Madagascar es una isla rica en diversidad, que ofrece paisajes impresionantes y una fauna única en el mundo."
+    },
+    "Testimonials": {
+        "texte": "DESTINEO ha sabido crear una verdadera comunidad de viajeros. El intercambio de experiencias y las recomendaciones personalizadas enriquecen considerablemente la experiencia del usuario.",
+        "poste": "Jefe de producto"
+    },
+    "Contact": {
+        "titre": "¿Listo para contratarnos?",
+        "description": "Cuéntanos tu historia y nos pondremos en contacto contigo.",
+        "nom": "Nombre",
+        "prenom": "Apellido",
+        "email": "Correo electrónico",
+        "details": "Detalles",
+        "envoyer": "Enviar",
+        "ps": "Te responderemos en 1-2 días laborables."
     }
 }

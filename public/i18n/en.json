@@ -1,16 +1,63 @@
 {
-    "navbar" : {
-        "Home" : "Home",
-        "FAQ" : "FAQ",
-        "Recommendation" : "Recommendation",
-        "Testimonials" : "Testimonials",
-        "Contact" : "Contact"
+    "navbar": {
+        "Home": "Home",
+        "FAQ": "FAQ",
+        "Recommendation": "Recommendation",
+        "Testimonials": "Testimonials",
+        "Contact": "Contact"
+    },
+    "footer": {
+        "Home": "Home",
+        "FAQ": "FAQ",
+        "Recommendation": "Recommendation",
+        "Testimonials": "Testimonials",
+        "Contact": "Contact"
     },
     "landing": {
         "badge": "100% Satisfaction",
         "Accroche": "Ready to embark on the adventure of a lifetime with",
-        "Texte": "Discover off-the-beaten-path destinations. From volcano climbing in Indonesia to African safaris, we offer unique experiences for daring travelers.",
-        "btn1": "Get Started",
-        "btn2": "Contact Us"
+        "Texte": "Discover off-the-beaten-path destinations. From climbing volcanoes in Indonesia to safaris in Africa, we offer unique experiences for adventurous travelers.",
+        "btn1": "Start",
+        "btn2": "Contact us"
+    },
+    "faq": {
+        "titre": "Your next journey starts here",
+        "description": "Embark on an adventure and discover the world with our travel agency. Take advantage of our exclusive offers and expert advice for an unforgettable stay.",
+        "blocs": {
+            "b1": "More than 1000 destinations worldwide",
+            "b2": "Thousands of 5-star customer reviews",
+            "b3": "Exclusive offers all year round",
+            "b4": "24/7 customer service"
+        }
+    },
+    "recommendation": {
+        "titre": "Recommendation",
+        "description": "Here are some recommendations for you.",
+        "recommandé" : "recommended",
+        "blocs": {
+            "b1": {
+                "titre": "The Avenue of the Baobabs",
+                "description": "The Avenue of the Baobabs is undoubtedly the most iconic image of Madagascar. These ancient trees, with their strange and majestic shapes, create a surreal landscape. The sunset is particularly magical, offering an unforgettable spectacle."
+            },
+            "b2": {
+                "titre": "Isalo National Park",
+                "description": "Isalo National Park is a true paradise for nature lovers. Its canyons, natural pools, varied flora and fauna make it an exceptional place. You can hike, swim, observe lemurs and discover breathtaking landscapes."
+            }
+        },
+        "Complimentation": "Madagascar is an island rich in diversity, offering breathtaking landscapes and a unique fauna in the world."
+    },
+    "Testimonials": {
+        "texte": "DESTINEO has managed to create a real community of travelers. The sharing of experiences and personalized recommendations greatly enrich the user experience.",
+        "poste": "Product Manager"
+    },
+    "Contact": {
+        "titre": "Ready to hire us?",
+        "description": "Tell us your story and we will contact you.",
+        "nom": "Name",
+        "prenom": "First name",
+        "email": "Email",
+        "details": "Details",
+        "envoyer": "Send",
+        "ps": "We will get back to you within 1-2 business days."
     }
 }

@@ -6,6 +6,13 @@
         "Testimonials" : "Témoignages",
         "Contact" : "Contact"
     },
+    "footer" : {
+        "Home" : "Accueil",
+        "FAQ" : "FAQ",
+        "Recommendation" : "Recommendation",
+        "Testimonials" : "Témoignages",
+        "Contact" : "Contact"
+    },
     "landing" : {
         "badge" : "100% Satisfaction",
         "Accroche" : "Prêt à vivre l'aventure de votre vie avec",
@@ -22,5 +29,35 @@
             "b3" : "Des offres exclusives toute l'année",
             "b4" : "Un service client disponible 24/7"
         }
+    },
+    "recommendation" : {
+        "titre" : "Recommendation",
+        "description" : "Voici quelque recommendation pour vous.",
+        "recommandé" : "recommandé",
+        "blocs" : {
+            "b1" : {
+                "titre" : "L'Allée des Baobabs",
+                "description" : "L'Allée des Baobabs est sans doute l'image la plus emblématique de Madagascar. Ces arbres millénaires, aux formes étranges et majestueuses, créent un paysage surréaliste. Le coucher de soleil est particulièrement magique, offrant un spectacle inoubliable."
+            },
+            "b2" : {
+                "titre" : "Le Parc National de l'Isalo",
+                "description" : "Le Parc National de l'Isalo est un véritable paradis pour les amoureux de la nature. Ses canyons, ses piscines naturelles, sa faune et sa flore variées en font un lieu d'exception. Vous pourrez y randonner, nager, observer les lémuriens et découvrir des paysages à couper le souffle."
+            }
+        },
+        "Complimentation" : "Madagascar est une île riche en diversité, offrant des paysages à couper le souffle et une faune unique au monde."
+    },
+    "Testimonials" : {
+        "texte" : "DESTINEO a su créer une véritable communauté de voyageurs. Le partage d'expériences et les recommandations personnalisées enrichissent considérablement l'expérience utilisateur.",
+        "poste" : "Product Manager"
+    },
+    "Contact" : {
+        "titre" : "Prêt à nous embaucher ?",
+        "description" : "Racontez-nous votre histoire et nous vous contacterons.",
+        "nom" : "Nom",
+        "prenom" : "Prenom",
+        "email" : "Email",
+        "details" : "Details",
+        "envoyer" : "Envoyer",
+        "ps" : "Nous vous répondrons dans 1 à 2 jours ouvrables."
     }
 }
